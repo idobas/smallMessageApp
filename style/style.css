@@ -1,0 +1,24 @@
+.message-list-button {
+  margin-top: 5px;
+}
+
+.mark-as-read {
+  font-weight: normal;
+}
+
+.mark-as-unread {
+  font-weight: bold;
+}
+
+.main-screen {
+  text-align: center;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.btn-primary {
+  position:relative;
+  left: 44%;
+}
